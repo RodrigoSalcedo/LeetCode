@@ -1,3 +1,4 @@
+
 # Leet Code Repo de Rodrigo Salcedo, Fernando Camou y Alejandro Ramirez
 
-El ejercicio 4 en python en leetcode marca runtime error faltando 2 ejercicios para pasar todas las pruebas.
+LeetCode exercises requested to be made as a team during the 3rd week of the Spark Training Program.
